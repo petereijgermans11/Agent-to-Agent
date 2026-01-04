@@ -1,4 +1,4 @@
-package be.lmagnette;
+package nl.petereijgermans;
 
 
 import dev.langchain4j.agent.tool.P;

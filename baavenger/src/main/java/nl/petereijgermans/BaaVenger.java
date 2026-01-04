@@ -1,4 +1,4 @@
-package be.lmagnette;
+package nl.petereijgermans;
 
 import dev.langchain4j.agentic.Agent;
 import dev.langchain4j.agentic.AgenticServices;
